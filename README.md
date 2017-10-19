@@ -1,4 +1,4 @@
-# golang
+# golango
 Tutorials and demo codes for go
 
 
